@@ -75,6 +75,13 @@ p {
 
 }
 
+a{
+	text-decoration: none;
+	font-family: georgia;
+	font-size: 16px;
+	color: #828282;
+	line-height: 20px;
+}
 
 
 
